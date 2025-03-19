@@ -75,5 +75,5 @@ This project is licensed under the MIT License.
 ## Contact
 For any queries or support, contact:
 - **GitHub**: [AryanSoni27](https://github.com/AryanSoni27)
-- **Email**: (Add your email here)
+- **Email**: aryansoni33635@gmail.com
 
